@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:3:5-62
+		INJECTED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:8:22-62
+application
+ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:10:5-32:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /home/bipin/.android/build-cache/7b6cdb1c186cbbda7e34015b90527183d4deb011/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/bipin/.android/build-cache/49a39a1cee5810edd88b1c29a6ae652cbce9bc1f/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/bipin/.android/build-cache/2451166e1214e2e94c4b6699494384dda8daff8b/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/bipin/.android/build-cache/9345eeffdb387516bab799b48c5cfdea60ac2235/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:design:24.2.0] /home/bipin/.android/build-cache/46bbf0073ecf072556debbe04b19bd016df0214e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/bipin/.android/build-cache/3df92ede52565c827bebafc35cf844d8654b7819/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/bipin/.android/build-cache/0992930bf173b6b08576eb85d36643a25cae5964/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/bipin/.android/build-cache/d876a1360ac969fbe40f18be013704a4f13445ca/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /home/bipin/.android/build-cache/508eac7972ffa5c0cd770b4c1793a3ffa80d0281/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /home/bipin/.android/build-cache/eb9ec0f88f84fba7ab1d735496b3abc208ac34cd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/bipin/.android/build-cache/8156b1c5011efb300f9147258f71c4960882800b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/bipin/.android/build-cache/f3968fc1bf7aadd41a1caf2a887dbaf58c6a8f14/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/bipin/.android/build-cache/776149cb1db9e763ab870ebfd3feda4275276cea/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/bipin/.android/build-cache/f63ff96775b615097be1c0d7a2c6e037db736080/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:15:9-37
+	android:supportsRtl
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:16:9-37
+	android:hardwareAccelerated
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:12:9-42
+	android:allowBackup
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:14:9-38
+	android:theme
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.version
+ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/bipin/.android/build-cache/9345eeffdb387516bab799b48c5cfdea60ac2235/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:19:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:21:9-23:35
+	android:value
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:23:13-32
+	android:name
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:22:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:25:9-31:20
+	android:label
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:26:13-38
+	android:name
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:25:19-100
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /home/bipin/.android/build-cache/7b6cdb1c186cbbda7e34015b90527183d4deb011/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/bipin/.android/build-cache/49a39a1cee5810edd88b1c29a6ae652cbce9bc1f/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/bipin/.android/build-cache/2451166e1214e2e94c4b6699494384dda8daff8b/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/bipin/.android/build-cache/9345eeffdb387516bab799b48c5cfdea60ac2235/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:24.2.0] /home/bipin/.android/build-cache/46bbf0073ecf072556debbe04b19bd016df0214e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/bipin/.android/build-cache/3df92ede52565c827bebafc35cf844d8654b7819/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/bipin/.android/build-cache/0992930bf173b6b08576eb85d36643a25cae5964/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/bipin/.android/build-cache/d876a1360ac969fbe40f18be013704a4f13445ca/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] /home/bipin/.android/build-cache/508eac7972ffa5c0cd770b4c1793a3ffa80d0281/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] /home/bipin/.android/build-cache/eb9ec0f88f84fba7ab1d735496b3abc208ac34cd/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/bipin/.android/build-cache/8156b1c5011efb300f9147258f71c4960882800b/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/bipin/.android/build-cache/f3968fc1bf7aadd41a1caf2a887dbaf58c6a8f14/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /home/bipin/.android/build-cache/314a729b52a38c70f00231aca3b5d6ae5e5325b5/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/bipin/.android/build-cache/776149cb1db9e763ab870ebfd3feda4275276cea/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /home/bipin/.android/build-cache/f63ff96775b615097be1c0d7a2c6e037db736080/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] /home/bipin/.android/build-cache/3df92ede52565c827bebafc35cf844d8654b7819/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/bipin/.android/build-cache/49a39a1cee5810edd88b1c29a6ae652cbce9bc1f/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/bipin/.android/build-cache/49a39a1cee5810edd88b1c29a6ae652cbce9bc1f/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/bipin/.android/build-cache/49a39a1cee5810edd88b1c29a6ae652cbce9bc1f/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/bipin/.android/build-cache/49a39a1cee5810edd88b1c29a6ae652cbce9bc1f/output/AndroidManifest.xml:20:19-85

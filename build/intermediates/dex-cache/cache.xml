@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/f63ff96775b615097be1c0d7a2c6e037db736080/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_7ea170c863d9601bd12cc6bf61d0f52c4dd05108.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/f3968fc1bf7aadd41a1caf2a887dbaf58c6a8f14/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_9090f9c3e6a031b9268fff26394983ec053120fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/508eac7972ffa5c0cd770b4c1793a3ffa80d0281/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/classes_0c957df3dffd9e9d4a9b2cd2f06c0c0c2b91a82b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/9345eeffdb387516bab799b48c5cfdea60ac2235/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/classes_7ef9ae45a6201885ef5b592fb159358849a72c05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/8156b1c5011efb300f9147258f71c4960882800b/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_27b77233e0058e0e2f68bd6016d4874968672c71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/eb9ec0f88f84fba7ab1d735496b3abc208ac34cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/classes_a25c10b338fee32bf3f2f2a634057b3dda4467d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/49a39a1cee5810edd88b1c29a6ae652cbce9bc1f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/classes_725dfc496014e78ff089dac93d0889ebb0d10fc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_602a714e473f4a485b00db392133fee9bf5b2b10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/7b6cdb1c186cbbda7e34015b90527183d4deb011/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/classes_071765a2c888505f5bdc1cd2878bfb84db59090c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/776149cb1db9e763ab870ebfd3feda4275276cea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/classes_5db3146b01630761c2e8cf25cd85e513655d1e8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/8156b1c5011efb300f9147258f71c4960882800b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/classes_08d966ade0829da30afd88a4c51197e4ba9c71cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/f63ff96775b615097be1c0d7a2c6e037db736080/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/classes_a10c5c3ef616da4e00f6e0a3880ad8cacf11bcc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/3df92ede52565c827bebafc35cf844d8654b7819/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/classes_bd670392d527ede8e6978300e63bdf417cfb5285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/46bbf0073ecf072556debbe04b19bd016df0214e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/classes_bb72ba1850457dfdd3f155de571bb83e2ed34e0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/776149cb1db9e763ab870ebfd3feda4275276cea/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_6e218fd69137e69e352d238ad0b5f84f63fe0f71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/2451166e1214e2e94c4b6699494384dda8daff8b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/classes_4985be102ecb0f39c429d667a1c7d76cbb0a59b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/0992930bf173b6b08576eb85d36643a25cae5964/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/classes_920532c9cb49b5a2090e8f401586d7503da26cc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/f3968fc1bf7aadd41a1caf2a887dbaf58c6a8f14/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/classes_501299faba8bd4d134377033c7844427a0df3db8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/314a729b52a38c70f00231aca3b5d6ae5e5325b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/classes_51cc67dd348cecf00297f74af3b2ff77cca24548.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/eb9ec0f88f84fba7ab1d735496b3abc208ac34cd/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_57d3224e0fb9ad4ac8443a4dfe53dbcd3312b27a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bipin/.android/build-cache/d876a1360ac969fbe40f18be013704a4f13445ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/bipin/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/classes_948f3daa7bd0ac0e0992f99bf8e0562e3d103143.jar" />
+    </item>
+
+</items>
